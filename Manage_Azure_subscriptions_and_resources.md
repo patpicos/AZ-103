@@ -3,23 +3,28 @@
 ## Manage Azure subscriptions
 * Assign administrator permissions; 
   * https://docs.microsoft.com/en-us/azure/billing/billing-add-change-azure-subscription-administrator
-* configure cost center quotas and tagging; 
+* Configure cost center quotas and tagging; 
   * https://buildazure.com/2017/06/14/azure-subscription-resource-limits-and-quotas/
   * https://docs.microsoft.com/en-us/azure/billing/billing-getting-started
   * http://resource.onlinetech.com/manage-your-azure-spend-by-cost-center/
-* configure Azure subscription policies at Azure subscription level
+* Configure Azure subscription policies at Azure subscription level
   * https://docs.microsoft.com/en-us/azure/governance/policy/overview
 
 * [Azure enterprise scaffold: Prescriptive subscription governance](https://docs.microsoft.com/en-ca/azure/architecture/cloud-adoption/appendix/azure-scaffold?wt.mc_id=itshowcase-codeapps)
 * [Examples of implementing Azure enterprise scaffold](https://docs.microsoft.com/en-ca/azure/architecture/cloud-adoption/appendix/azure-scaffold-examples)
-* https://azure.microsoft.com/en-us/blog/organizing-subscriptions-and-resource-groups-within-the-enterprise/
-* https://docs.microsoft.com/en-us/powershell/azure/manage-subscriptions-azureps?view=azps-1.5.0&viewFallbackFrom=azurermps-6.10.0
-* https://www.computerweekly.com/tip/Windows-Azure-tutorial-Part-1-Set-up-and-manage-subscriptions
+* [Organizing subscriptions and resource groups within the Enterprise](https://azure.microsoft.com/en-us/blog/organizing-subscriptions-and-resource-groups-within-the-enterprise/)
+* [Use multiple Azure subscriptions]([https://docs.microsoft.com/en-us/powershell/azure/manage-subscriptions-azureps?view=azps-1.5.0&viewFallbackFrom=azurermps-6.10.0](https://docs.microsoft.com/en-us/powershell/azure/manage-subscriptions-azureps?view=azps-1.5.0))
+* [Windows Azure tutorial Part 1: Set up and manage subscriptions](https://www.computerweekly.com/tip/Windows-Azure-tutorial-Part-1-Set-up-and-manage-subscriptions)
 * [Blog - Subscription Management](https://azure.microsoft.com/en-us/blog/tag/subscription-management/)
 * [Pluralsight - Managing Microsoft Azure Subscriptions](https://www.pluralsight.com/courses/microsoft-azure-subscriptions-managing)
 
 ## Analyze resource utilization and consumption
 * Configure diagnostic settings on resources; 
+  * [Automatically enable Diagnostic Settings at resource creation using a Resource Manager template](https://docs.microsoft.com/en-us/azure/monitoring-and-diagnostics/monitoring-enable-diagnostic-logs-using-template)
+  * [MANAGING MULTIPLE AZURE DIAGNOSTIC SETTINGS USING AZURE CLI INSTEAD OF POWERSHEL](http://techgenix.com/azure-diagnostic-settings/)
+  * [Collect and consume log data from your Azure resources](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/diagnostic-logs-overview)
+  * [What is Azure Diagnostics extension](What is Azure Diagnostics extension)
+  * [Monitoring data collected by Azure Monitor](https://docs.microsoft.com/en-us/azure/azure-monitor/platform/data-collection)
 * create baseline for resources; 
 * create and rest alerts; 
 * analyze alerts across subscription; 
