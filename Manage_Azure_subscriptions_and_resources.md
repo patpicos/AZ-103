@@ -10,13 +10,13 @@
 * configure Azure subscription policies at Azure subscription level
   * https://docs.microsoft.com/en-us/azure/governance/policy/overview
 
-[Azure enterprise scaffold: Prescriptive subscription governance](https://docs.microsoft.com/en-ca/azure/architecture/cloud-adoption/appendix/azure-scaffold?wt.mc_id=itshowcase-codeapps)
-[Examples of implementing Azure enterprise scaffold](https://docs.microsoft.com/en-ca/azure/architecture/cloud-adoption/appendix/azure-scaffold-examples)
-https://azure.microsoft.com/en-us/blog/organizing-subscriptions-and-resource-groups-within-the-enterprise/
-https://docs.microsoft.com/en-us/powershell/azure/manage-subscriptions-azureps?view=azps-1.5.0&viewFallbackFrom=azurermps-6.10.0
-https://www.computerweekly.com/tip/Windows-Azure-tutorial-Part-1-Set-up-and-manage-subscriptions
-[Blog - Subscription Management](https://azure.microsoft.com/en-us/blog/tag/subscription-management/)
-[Pluralsight - Managing Microsoft Azure Subscriptions](https://www.pluralsight.com/courses/microsoft-azure-subscriptions-managing)
+* [Azure enterprise scaffold: Prescriptive subscription governance](https://docs.microsoft.com/en-ca/azure/architecture/cloud-adoption/appendix/azure-scaffold?wt.mc_id=itshowcase-codeapps)
+* [Examples of implementing Azure enterprise scaffold](https://docs.microsoft.com/en-ca/azure/architecture/cloud-adoption/appendix/azure-scaffold-examples)
+* https://azure.microsoft.com/en-us/blog/organizing-subscriptions-and-resource-groups-within-the-enterprise/
+* https://docs.microsoft.com/en-us/powershell/azure/manage-subscriptions-azureps?view=azps-1.5.0&viewFallbackFrom=azurermps-6.10.0
+* https://www.computerweekly.com/tip/Windows-Azure-tutorial-Part-1-Set-up-and-manage-subscriptions
+* [Blog - Subscription Management](https://azure.microsoft.com/en-us/blog/tag/subscription-management/)
+* [Pluralsight - Managing Microsoft Azure Subscriptions](https://www.pluralsight.com/courses/microsoft-azure-subscriptions-managing)
 
 ## Analyze resource utilization and consumption
 * Configure diagnostic settings on resources; 
