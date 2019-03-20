@@ -13,3 +13,9 @@ This study guide is open for anyone interested in writing the exam. If you have 
 * Deploy and manage virtual machines (VMs) (20-25%)
 * Configure and manage virtual networks (20-25%)
 * Manage identities (15-20%)
+
+# Additional Resources
+* https://labondemand.com/Event/MSHandsOnLabs/Home
+* https://www.microsoft.com/handsonlabs/selfpacedlabs
+* https://msandbu.org/study-guide-for-azure-certifications-az-100-az-101/
+* https://www.getazureready.com/courses
