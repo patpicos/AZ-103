@@ -19,3 +19,4 @@ This study guide is open for anyone interested in writing the exam. If you have 
 * https://www.microsoft.com/handsonlabs/selfpacedlabs
 * https://msandbu.org/study-guide-for-azure-certifications-az-100-az-101/
 * https://www.getazureready.com/courses
+* https://gyfb.ca/2019/03/24/az-103-study-guide/
