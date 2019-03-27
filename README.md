@@ -1,4 +1,4 @@
-# AZ-103
+# AZ-103 Microsoft Azure Administrator Exam Study Guide
 Study Guide for Microsoft Exam AZ-103 Microsoft Azure Administrator
 
 This guide is a combination of the study material I had for exams AZ-100 and AZ-101. Microsoft recently re-combined the exams into one.
