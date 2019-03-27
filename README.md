@@ -8,10 +8,15 @@ For more information about the exam, visit https://www.microsoft.com/en-us/learn
 This study guide is open for anyone interested in writing the exam. If you have material you feel worthy of adding to the guide, please submit a PR.
 
 # Core Objectives
-* Deploy and Configure Infrastructure (25-30%)
-* Implement Workloads and Security (20-25%)
-* Create and Deploy Apps (5-10%)
-* Implement Authentication and Secure Data (5-10%)
-* Develop for the Cloud and for Azure Storage (20-25%)
+* Manage Azure subscriptions and resources (15-20%)
+* Implement and manage storage (5-10%)
+* Deploy and manage virtual machines (VMs) (20-25%)
+* Configure and manage virtual networks (20-25%)
+* Manage identities (15-20%)
 
 # Additional Resources
+* https://labondemand.com/Event/MSHandsOnLabs/Home
+* https://www.microsoft.com/handsonlabs/selfpacedlabs
+* https://msandbu.org/study-guide-for-azure-certifications-az-100-az-101/
+* https://www.getazureready.com/courses
+* https://gyfb.ca/2019/03/24/az-103-study-guide/
